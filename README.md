@@ -2,6 +2,10 @@
 
 A small React interface for saving notes and web links, browsing saved knowledge, and asking questions grounded in that knowledge.
 
+## Live application
+
+Try the deployed application at [ai-inbox-frontend-3qoh.onrender.com](https://ai-inbox-frontend-3qoh.onrender.com/).
+
 ## Features
 
 - Save plain-text notes or URLs to the inbox.
